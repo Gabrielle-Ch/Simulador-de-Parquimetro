@@ -1,0 +1,30 @@
+body {
+    font-family: arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    color: black;
+    background-color: darkgray;
+}
+
+input {
+    margin: 10px;
+    padding: 5px;
+    color: black;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+    color: darkgreen;
+}
+
+h2 {
+    margin-top: 20px;
+    color: midnightblue;
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+    color: darkgreen;
+}
